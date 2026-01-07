@@ -11,7 +11,7 @@ const CONFIG = {
  *************************************************/
 const productos = [
      /* CAMPERAS */
-    { id: 1, nombre: "Aston Martin", tipo: "f1", categoria: "f1", precio:consultar, imagenes: ["img/camperas/campera1.jpeg"] },
+    { id: 1, nombre: "Aston Martin", tipo: "f1", categoria: "f1", imagenes: ["img/camperas/campera1.jpeg"] },
     { id: 2, nombre: "Formula 1 Pelicula", tipo: "f1", categoria: "f1", precio:consultar, imagenes: ["img/camperas/campera2.jpeg"] },
     { id: 3, nombre: "Ferrari Roja", tipo: "f1", categoria: "f1", precio:consultar, imagenes: ["img/camperas/campera3.jpeg"] },
     { id: 4, nombre: "Honda Ayrton Senna", tipo: "f1", categoria: "f1", precio:consultar, imagenes: ["img/camperas/campera4.jpeg"] },
